@@ -1,0 +1,27 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "A file based blog/cms powered by markdown and handlebars, written in Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "glob": "^5.0.10",
+    "handlebars": "^3.0.3",
+    "hapi": "^8.6.0",
+    "markdown-it": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeb-uk/node-blog.git"
+  },
+  "author": "Luke Bonaccorsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukeb-uk/node-blog/issues"
+  },
+  "homepage": "https://github.com/lukeb-uk/node-blog#readme"
+}
